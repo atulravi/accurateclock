@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"A1";"SEEED_113990105";1;"NODE MCU ";;;
+2;"VIN1,J3";"PinHeader_1x02_P1.00mm_Vertical";2;"Conn_01x02_Socket";;;
+3;"U1";"DIP-8_W7.62mm";1;"DS1307+";;;
+4;"Jbattery1";"PinHeader_1x02_P2.00mm_Vertical";1;"Conn_01x02_Socket";;;
+5;"Jdisplay1";"PinHeader_1x04_P2.00mm_Vertical";1;"Conn_01x04_Socket";;;
